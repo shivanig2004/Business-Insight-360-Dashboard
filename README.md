@@ -19,8 +19,11 @@ tracking profitability, customer performance, and operational efficiency.
 🧠 Objective
 
 
-To build an interactive, data-driven Power BI dashboard that helps management teams identify growth opportunities,
-monitor trends, and make informed business decisions using real-world datasets.
+To build an interactive, data-driven Power BI dashboard that helps management 
+
+teams identify growth opportunities, monitor trends, and make informed 
+
+business decisions using real-world datasets.
 
 
 
@@ -103,6 +106,7 @@ Improved supply chain efficiency through trend analysis***
 **🧮 Data Model Overview**
 
 The data model follows a Star Schema design with one Fact Table
+
 connected to multiple Dimension Tables (Date, Product, Customer, Region).
 
 
